@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Text, TextProps } from '@ignite-ui/react'
 
 export default {
-  title: 'Typograph/Text',
+  title: 'Typography/Text',
   component: Text,
   args: {
     children:
