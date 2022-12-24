@@ -1,0 +1,2 @@
+import{e as o,T as t}from"./index.1ae081fd.js";import{j as r}from"./jsx-runtime.1b5c3f56.js";import"./index.54c067c6.js";import"./iframe.eecede78.js";import"./index.372554a1.js";const a={title:"Feedback/Tooltip",component:o,argTypes:{children:{control:{type:null}}},args:{content:"26 de Outubro - Dispon\xEDvel",children:r(t,{as:"span",children:"26"})}},l={},m=["Primary"];export{l as Primary,m as __namedExportsOrder,a as default};
+//# sourceMappingURL=Tooltip.stories.23443b2b.js.map
